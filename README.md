@@ -1,2 +1,2 @@
-# ETL_fundamentals
-Exercise aimed at applying ETL fundamentals to treat a dataset. In the project, a dataset is extracted and transformed from some guidelines, which are pointed out in the code. At the end, the entire dataset prepared to be loaded in a data analysis step is displayed.
+# investment_forecast_for_opening_a_franchise
+Mini-project to predict the initial investment required by a franchise from the annual fee charged by the franchisor. The intention was to apply machine learning concepts (linear regression model) to generate a model that can provide the value of the initial investment from the provision of the value in the annual franchise fee.
