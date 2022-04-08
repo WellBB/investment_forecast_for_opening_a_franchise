@@ -1,0 +1,2 @@
+# ETL_fundamentals
+Exercise aimed at applying ETL fundamentals to treat a dataset. In the project, a dataset is extracted and transformed from some guidelines, which are pointed out in the code. At the end, the entire dataset prepared to be loaded in a data analysis step is displayed.
